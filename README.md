@@ -12,7 +12,3 @@ http://answers.opencv.org/question/171886/using-trained-file-for-predictions/
 https://stackoverflow.com/questions/49144590/to-convert-a-grayscale-image-to-rgb-image-using-pil
 https://docs.opencv.org/2.4.13.6/modules/contrib/doc/facerec/facerec_api.html?highlight=createlbphfacerecognizer#createlbphfacerecognizer
 
-Réalisé par Hajar Elachhab
-
-email: elachhab96@outlook.com
-phone number : 06 44 58 37 38
